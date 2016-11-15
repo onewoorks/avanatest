@@ -1,0 +1,23 @@
+{
+    "name": "IwangIbrahim/AvanaTest",
+    "description": "AvanaTest",
+    "keywords": ["AvanaTest"],
+    "authors": [
+        {
+            "name": "Iwang Ibrahim",
+            "email": "webapps@onewoorks.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/",
+            "PHPExcel\\": "vendor/phpoffice/phpexcel/Classes/"
+        }
+    }
+}
