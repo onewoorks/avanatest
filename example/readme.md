@@ -1,9 +1,8 @@
 #disclaimer
 
-this example is for testing purpose only...
+this example is for testing purpose only and all parameters is hardcoded
 
 the parameter of filetovalidate is the filename to be validated.
-parameter to be assigned to the method is hardcoded
 
 Type_A.xlsx and Type_B.xlsx files is already in the hosting. Where Type_C.php is file will not be validated by current method.
 
